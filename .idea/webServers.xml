@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a8650970-bb19-4a37-acc9-9e02e3f4848b" name="Production_appache">
+        <fileTransfer rootFolder="/var/www/egs_dashboard_app" accessType="SFTP" host="10.10.239.70" port="22" sshConfigId="3c47178f-d353-4361-ab90-46fc4a689293" sshConfig="sapp@10.10.239.70:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
