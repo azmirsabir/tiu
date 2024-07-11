@@ -1,8 +1,11 @@
 # TIU
 
+# PHP version
+7.3 - 8.0 
+
 ## Installation
-PHP version: 7.3 - 8.0 
 Follow these steps to set up the project locally:
+
 
 1. **Clone the repository:**
 
